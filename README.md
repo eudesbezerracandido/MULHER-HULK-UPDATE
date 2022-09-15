@@ -7,6 +7,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3OSRMZR6VZ4J3L5PCOPGROA2LG5TYKBE$nome=EP.2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac63a613c89c849f0494849220f55c86036a19c1$nome=EP.3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dad76d8125203c2260cb31a30973aaa7a408697f$nome=EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a8d048010b28751c00aa7795926fe3d1e5a9ce4$nome=EP.5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wgfYIC1zQ1b4mp6m5cJULEDNdUl.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Jennifer Walters — uma advogada especializada em casos envolvendo super-humanos — deve lidar com a complicada vida de uma mulher solteira de trinta e poucos anos que, por acaso, é uma hulk superpoderosa de 2 metros.</info>
